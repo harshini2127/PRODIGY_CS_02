@@ -67,6 +67,7 @@ The same XOR key must be used for successful decryption.
 Accessed and modified RGB pixel values directly using:
 
 getpixel()
+
 putpixel()
 
 ## 🔹 Embedded Key Verification
@@ -125,7 +126,7 @@ Note: PNG format is recommended for encrypted images because it preserves exact 
 ## 1️⃣ Install Required Library
 pip install pillow
 ## 2️⃣ Run the Program
-python task2.py
+python image encryption.py
 # 📸 Screenshots
 * GUI Interface
 <img width="1920" height="1080" alt="gui" src="https://github.com/user-attachments/assets/cb6522c2-6373-4ea6-bf5d-5280fa6fe561" />
