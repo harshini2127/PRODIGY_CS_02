@@ -1,5 +1,5 @@
 # PRODIGY_CS_02
-GUI-based Image Encryption &amp; Decryption Tool using XOR pixel manipulation with Python, Tkinter, and Pillow.
+Pixel manipulation for image encryption
 
 # 🔐 Image Encryption & Decryption Tool using XOR Cipher
 
